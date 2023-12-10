@@ -1,0 +1,4 @@
+/home/mah/allakiTP/spring-boot-data-jpa-mysql/src/main/java/com/bezkoder/spring/datajpa/SpringBootDataJpaApplication.java
+/home/mah/allakiTP/spring-boot-data-jpa-mysql/src/main/java/com/bezkoder/spring/datajpa/controller/TutorialController.java
+/home/mah/allakiTP/spring-boot-data-jpa-mysql/src/main/java/com/bezkoder/spring/datajpa/repository/TutorialRepository.java
+/home/mah/allakiTP/spring-boot-data-jpa-mysql/src/main/java/com/bezkoder/spring/datajpa/model/Tutorial.java
